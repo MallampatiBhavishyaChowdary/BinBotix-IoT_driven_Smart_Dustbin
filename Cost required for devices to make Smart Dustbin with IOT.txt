@@ -1,0 +1,9 @@
+Cost of devices required in using Smart_DustBin with IOT:
+
+Arduino                :      2000 
+Gsm                    :      800
+Pir sensor             :      200
+Ultrasonic sensor      :      150 
+Servo motor            :      250
+Bread board            :      60
+Total                  :      3460
